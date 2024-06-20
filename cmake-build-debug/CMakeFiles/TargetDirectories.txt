@@ -1,0 +1,3 @@
+/home/evilgooby/CLionProjects/playferCipher/cmake-build-debug/CMakeFiles/playferCipher.dir
+/home/evilgooby/CLionProjects/playferCipher/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/evilgooby/CLionProjects/playferCipher/cmake-build-debug/CMakeFiles/rebuild_cache.dir
